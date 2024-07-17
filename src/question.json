@@ -1,0 +1,52 @@
+{
+    "multipleChoice": {
+      "easy": [
+        {
+          "question": "What year did the American Civil War start?",
+          "options": ["1860", "1861", "1862", "1863"],
+          "answer": "1861"
+        }
+
+      ],
+      "medium": [
+        {
+          "question": "Who was the president of the United States during World War I?",
+          "options": ["Woodrow Wilson", "Theodore Roosevelt", "Franklin D. Roosevelt", "Warren G. Harding"],
+          "answer": "Woodrow Wilson"
+        }
+
+      ],
+      "hard": [
+        {
+          "question": "What was the name of the ship that brought the Pilgrims to America in 1620?",
+          "options": ["Mayflower", "Santa Maria", "Pinta", "Nina"],
+          "answer": "Mayflower"
+        }
+
+      ]
+    },
+    "fillInTheBlank": {
+      "easy": [
+        {
+          "sentence": "The sky is ___.",
+          "answer": "blue"
+        }
+
+      ],
+      "medium": [
+        {
+          "sentence": "Water freezes at 0 degrees ___.",
+          "answer": "Celsius"
+        }
+
+      ],
+      "hard": [
+        {
+          "sentence": "E = mc^___.",
+          "answer": "2"
+        }
+
+      ]
+    }
+  }
+  
