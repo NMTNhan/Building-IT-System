@@ -1,5 +1,5 @@
 import React, { createContext, useContext, useState } from 'react';
-import questionsData from '../questions.json';
+import questionsData from '../data/question.json';
 
 const QuestionsContext = createContext();
 

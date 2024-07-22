@@ -1,11 +1,14 @@
 import React from 'react';
+import { QuestionsProvider } from './context/QuestionContext';
 import Game from './components/Game';
 
 const App = () => {
   return (
-    <div>
-      <Game />
-    </div>
+    <QuestionsProvider>
+      <div>
+        <Game />
+      </div>
+    </QuestionsProvider>
   );
 };
 
