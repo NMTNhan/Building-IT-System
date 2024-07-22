@@ -19,13 +19,13 @@ This is a history game built with React and Flask. The game adjusts the difficul
 Clone https://github.com/NMTNhan/Building-IT-System.git
 
 **1. Backend Setup**
-a. Open Pycharm and open the backend folder
-b. Open app.py
-c. Open terminal and type "pip install -r requirements.txt" (make sure to "cd" the correct folder path on the terminal)
-d. Run the app.py file
+- Open Pycharm and open the backend folder
+- Open app.py
+- Open terminal and type "pip install -r requirements.txt" (make sure to "cd" the correct folder path on the terminal)
+- Run the app.py file
 
 **2. Frontend Setup**
-a. Open Visual Studio Code and open the frontend folder
-b. Open src/App.js
-c. Open terminal and type "npm install" (make sure to "cd" the correct folder path on the terminal)
-d. Type "npm start" on the terminal
+- Open Visual Studio Code and open the frontend folder
+- Open src/App.js
+- Open terminal and type "npm install" (make sure to "cd" the correct folder path on the terminal)
+- Type "npm start" on the terminal
