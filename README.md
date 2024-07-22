@@ -17,20 +17,7 @@ This is a history game built with React and Flask. The game adjusts the difficul
 
 ## Setup Instructions
 
-1. **Clone the repository:**
+1. Clone the repo
+Clone https://github.com/NMTNhan/Building-IT-System.git
 
-```sh
-git clone https://github.com/your-username/history-game.git
-cd history-game
-Install frontend dependencies:
-cd frontend
-npm install
-Install backend dependencies:
-cd ../backend
-pip install -r requirements.txt
-Run the backend server:
-cd backend
-python app.py
-Run the frontend development server:
-cd ../frontend
-npm start
+2. 
