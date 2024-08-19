@@ -17,15 +17,31 @@
         "answer": "1911, at Nha Rong port"
       },
       {
-        "question": "Who painted the Mona Lisa?",
-        "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Claude Monet"],
-        "answer": "Leonardo da Vinci"
+        "question": "How many phases were there in the Dien Bien Phu campaign?",
+        "options": ["2 phases", "3 phases", "4 phases", "1 phases"],
+        "answer": "3 phases"
       },
       {
-        "question": "What is the largest ocean on Earth?",
-        "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
-        "answer": "Pacific Ocean"
+        "question": "How many days and nights did Vietnam win the Dien Bien Phu campaign?",
+        "options": ["55 days and nights", "56 days and night", "65 days and night", "50 days and nights"],
+        "answer": "56 days and nights"
+      },
+      {
+        "question": "What is Vietnam's national day?",
+        "options": ["2/9", "12/9", "19/8", "3/9"],
+        "answer": "2/9"
+      },
+      {
+        "question": "What day, month, and year did General Secretary Nguyen Phu Trong pass away?",
+        "options": ["July 19, 2024", "July 20, 2024", "May 19, 2024", "June 19, 2024"],
+        "answer": "July 19, 2024"
+      },
+      {
+        "question": "What day is national reunification day?",
+        "options": ["30/4/1975", "30/4/1974", "30/3/1975", "29/4/1975"],
+        "answer": "30/4/1975"
       }
+      
     ],
     "normal": [
       {
