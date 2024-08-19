@@ -109,24 +109,24 @@
         "answer": "Woodrow Wilson"
       },
       {
-        "question": "What is the chemical symbol for gold?",
-        "options": ["Au", "Ag", "Pb", "Fe"],
-        "answer": "Au"
+        "question": "What was the first name of our country? ",
+        "options": ["Van Lang", "Au Lac", "VietNam", "Dai Co Viet"],
+        "answer": "Van Lang"
       },
       {
-        "question": "Who wrote 'To Kill a Mockingbird'?",
-        "options": ["Harper Lee", "Mark Twain", "Ernest Hemingway", "F. Scott Fitzgerald"],
-        "answer": "Harper Lee"
+        "question": "What day, month, and year was Nguyen Tat Thanh born?",
+        "options": ["May 19, 1980", "May 19, 1890", "May 19, 1089", "May 19, 1908"],
+        "answer": "May 19, 1890"
       },
       {
-        "question": "What is the largest planet in our solar system?",
-        "options": ["Earth", "Jupiter", "Saturn", "Neptune"],
-        "answer": "Jupiter"
+        "question": "When did the Ho Chi Minh Campaign take place? ",
+        "options": ["From April 16 to April 30, 1975 ", "From April 26 to April 30, 1975", "From April 9 to April 30, 1975", "From April 21 to April 30, 1975"],
+        "answer": "From April 26 to April 30, 1975"
       },
       {
-        "question": "What is the hardest natural substance on Earth?",
-        "options": ["Gold", "Iron", "Diamond", "Ruby"],
-        "answer": "Diamond"
+        "question": "What date was the Paris Agreement signed? ",
+        "options": ["27/01/1973", "28/01/1975", "2/9/1954", "30/4/1975"],
+        "answer": "27/01/1973"
       }
     ],
     "hard": [
