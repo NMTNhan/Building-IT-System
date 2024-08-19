@@ -47,9 +47,9 @@
         "answer": "General Vo Nguyen Giap"
       },
       {
-        "question": "Who was the commander of the Dien Bien Phu campaign?",
-        "options": ["Uncle Ho", "General Vo Nguyen Giap", "General Le Trong Tan", "Hoang Van Thai"],
-        "answer": "General Vo Nguyen Giap"
+        "question": "During the years 1955-1975, which country provided economic and technical to Vietnam?",
+        "options": ["England", "France", "Soviet Union", "Thailand"],
+        "answer": "Soviet Union"
       },
       {
         "question": "Which dynasty was founded by Nguyen Anh after defeating Tay Son?",
@@ -62,9 +62,9 @@
         "answer": "Over 1000 years"
       },
       {
-        "question": "How long was Vietnam colonized by China?",
-        "options": ["900 years", "Over 1000 years", "800 years", "Over 700 years"],
-        "answer": "Over 1000 years"
+        "question": "What year did World War II end?",
+        "options": ["1945", "1946", "1944", "1943"],
+        "answer": "1945"
       },
       {
         "question": "Who was the US President when the Paris Peace Agreement was signed?",
@@ -90,16 +90,17 @@
         "question": "Which country initiated the conquest of space?",
         "options": ["Soviet Union", "America", "Japan", "Singapore"],
         "answer": "Soviet Union"
+      },
+      {
+        "question": "Which energy source is considered "clean energy"?",
+        "options": ["Thermonuclear energy", "Solar energy", "Tidal energy", "Nuclear energy"],
+        "answer": "Solar energy"
+      },
+      {
+        "question": "In which country was the first electronic computer invented?",
+        "options": ["America", "Soviet Union", "Japan", "France"],
+        "answer": "America"
       }
-      
-      
-    
-      
-      
-      
-      
-      
-      
     ],
     "normal": [
       {
