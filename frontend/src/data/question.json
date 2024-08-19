@@ -127,7 +127,33 @@
         "question": "What date was the Paris Agreement signed? ",
         "options": ["27/01/1973", "28/01/1975", "2/9/1954", "30/4/1975"],
         "answer": "27/01/1973"
+      },
+      {
+        "question": "When did the countries of the world hold the conference to establish the United Nations?",
+        "options": ["World War II broke out", "World War II had not yet taken place", "World War II was about to end", "In World War II"],
+        "answer": "World War II was about to end"
+      },
+      {
+        "question": "Which army helped Vietnam in the war against France?",
+        "options": ["Chinese army", "American army ", "British army", "Soviet army"],
+        "answer": "Chinese army"
+      },
+      {
+        "question": "Which conference decided to divide Vietnam into two regions: North and South?",
+        "options": ["Geneva Conference 1954", "Paris Conference 1973", "Chengdu Conference 1990", "Indochina Conference 1945"],
+        "answer": "Geneva Conference 1954"
+      },
+      {
+        "question": "The three major financial economic centers of the world formed in the 70s of the 20th century were",
+        "options": ["America, England, France", "America, Soviet Union, Japan", "America, Japan, Western Europe", "America, Germany, Japan"],
+        "answer": "America, Japan, Western Europe"
+      },
+      {
+        "question": "Which attack led to the United States officially entering World War II?",
+        "options": ["The attack on Pearl Harbor", "The attack on Normandy", "The attack on Stalingrad", "The attack on London"],
+        "answer": "The attack on Pearl Harbor"
       }
+      
     ],
     "hard": [
       {
