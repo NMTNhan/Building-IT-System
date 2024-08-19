@@ -40,7 +40,65 @@
         "question": "What day is national reunification day?",
         "options": ["30/4/1975", "30/4/1974", "30/3/1975", "29/4/1975"],
         "answer": "30/4/1975"
+      }, 
+      {
+        "question": "Who was the commander of the Dien Bien Phu campaign?",
+        "options": ["Uncle Ho", "General Vo Nguyen Giap", "General Le Trong Tan", "Hoang Van Thai"],
+        "answer": "General Vo Nguyen Giap"
+      },
+      {
+        "question": "Who was the commander of the Dien Bien Phu campaign?",
+        "options": ["Uncle Ho", "General Vo Nguyen Giap", "General Le Trong Tan", "Hoang Van Thai"],
+        "answer": "General Vo Nguyen Giap"
+      },
+      {
+        "question": "Which dynasty was founded by Nguyen Anh after defeating Tay Son?",
+        "options": ["Le Dynasty", "Nguyen Dynasty", "Tran Dynasty", "Han Dynasty"],
+        "answer": "Nguyen Dynasty"
+      },
+      {
+        "question": "How long was Vietnam colonized by China?",
+        "options": ["900 years", "Over 1000 years", "800 years", "Over 700 years"],
+        "answer": "Over 1000 years"
+      },
+      {
+        "question": "How long was Vietnam colonized by China?",
+        "options": ["900 years", "Over 1000 years", "800 years", "Over 700 years"],
+        "answer": "Over 1000 years"
+      },
+      {
+        "question": "Who was the US President when the Paris Peace Agreement was signed?",
+        "options": ["John F. Kennedy", "Lyndon B. Johnson", "Gerald Ford", "Richard Nixon"],
+        "answer": "Richard Nixon"
+      },
+      {
+        "question": "Which country did the US drop atomic bombs on during World War II? ",
+        "options": ["VietNam", "China", "Japan", "Laos"],
+        "answer": "Japan"
+      },
+      {
+        "question": "The first country in the world to build a nuclear power plant was",
+        "options": ["America", "China", "Japan", "Soviet Union"],
+        "answer": "Soviet Union"
+      },
+      {
+        "question": "Where is the headquarters of the United Nations located?",
+        "options": ["VietNam", "America", "China", "Singapore"],
+        "answer": "America"
+      },
+      {
+        "question": "Which country initiated the conquest of space?",
+        "options": ["Soviet Union", "America", "Japan", "Singapore"],
+        "answer": "Soviet Union"
       }
+      
+      
+    
+      
+      
+      
+      
+      
       
     ],
     "normal": [
