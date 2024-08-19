@@ -2,19 +2,19 @@
   "multipleChoice": {
     "easy": [
       {
-        "question": "What year did the American Civil War start?",
-        "options": ["1860", "1861", "1862", "1863"],
-        "answer": "1861"
+        "question": "When was the Tran Dynasty established? ",
+        "options": ["Early 1226", "1228", "1225", "1863"],
+        "answer": "Early 1226"
       },
       {
-        "question": "What is the capital of France?",
-        "options": ["Berlin", "Madrid", "Paris", "Rome"],
-        "answer": "Paris"
+        "question": "How many kings did the Nguyen Dynasty have? ",
+        "options": ["2", "13", "5", "6"],
+        "answer": "13"
       },
       {
-        "question": "Which planet is known as the Red Planet?",
-        "options": ["Earth", "Jupiter", "Mars", "Saturn"],
-        "answer": "Mars"
+        "question": "In what year and from where did Nguyen Tat Thanh set out to find a way to save the country? ",
+        "options": ["1911, at Nha Rong port", "1912, at Saigon Station", "1913, at Mr Le's house", "1915, at Nha Rong post"],
+        "answer": "1911, at Nha Rong port"
       },
       {
         "question": "Who painted the Mona Lisa?",
