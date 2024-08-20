@@ -206,30 +206,66 @@
     ],
     "hard": [
       {
-        "question": "What was the name of the ship that brought the Pilgrims to America in 1620?",
-        "options": ["Mayflower", "Santa Maria", "Pinta", "Nina"],
-        "answer": "Mayflower"
+        "question": "In which year did the Trung Sisters' uprising occur? ",
+        "options": ["179 BC", "Year 40, "Year 41", "Year 39"],
+        "answer": "Year 40"
       },
       {
-        "question": "Who developed the theory of relativity?",
-        "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Nikola Tesla"],
-        "answer": "Albert Einstein"
+        "question": "In which year did Ngo Quyen ascend the throne? ",
+        "options": ["938", "939", "950", "940"],
+        "answer": "939"
       },
       {
-        "question": "What is the capital of Mongolia?",
-        "options": ["Ulaanbaatar", "Astana", "Tashkent", "Bishkek"],
-        "answer": "Ulaanbaatar"
+        "question": "To find a way to save the country, in 1905, Phan Boi Chau went to which country? ",
+        "options": ["China", "Japan", "Russia", "Japan"],
+        "answer": "Japan"
       },
       {
-        "question": "Who wrote 'War and Peace'?",
-        "options": ["Leo Tolstoy", "Fyodor Dostoevsky", "Anton Chekhov", "Vladimir Nabokov"],
-        "answer": "Leo Tolstoy"
+        "question": "Who was the first person to plant the flag on the roof of the Independence Palace on April 30, 1975? ?",
+        "options": ["Dang Toan", "Bui Quang Than", "Nguyen Van Tap", "Hoang Dang Vinh"],
+        "answer": "Bui Quang Than"
       },
       {
-        "question": "What is the smallest country in the world?",
-        "options": ["Monaco", "Vatican City", "San Marino", "Liechtenstein"],
-        "answer": "Vatican City"
+        "question": "On September 2, 1945, in front of Ba Dinh Square, President Ho Chi Minh read the Declaration of Independence, giving birth to the country.............. ",
+        "options": ["The Socialist Republic of Vietnam", "Vietnam", "Democratic Republic of Vietnam", "Republic of Vietnam "],
+        "answer": "Democratic Republic of Vietnam"
+      },
+      {
+        "question": "The victory of which of the following campaigns ended the Vietnamese people's resistance war against the US to save the country (1954 - 1975)? ",
+        "options": ["Tay Nguyen Campaign", "Hue-Da Nang Campaign", "Ho Chi Minh Campaign", "Tri-Thien Campaign"],
+        "answer": "Ho Chi Minh Campaign"
+      },
+      {
+        "question": "When did the name "Socialist Republic of Vietnam" come into being? ",
+        "options": ["September 2, 1945", "July 2, 1976", "February 12, 1951", "July 2, 1975"],
+        "answer": "July 2, 1976"
+      },
+      {
+        "question": "The United Nations operates according to the main principles: ",
+        "options": ["maintaining world peace and security", "carrying out international cooperation between countries", "developing friendly relations among nations ", "the purpose of the Charter is clearly stated"],
+        "answer": "maintaining world peace and security"
+      },
+      {
+        "question": "Which of the following organizations is not part of the United Nations? ",
+        "options": ["UNICEF", "WTO", "NATO", "UNESCO"],
+        "answer": "NATO"
+      },
+      {
+        "question": "In 1996, the US and Japanese governments met and decided to:   ",
+        "options": ["terminate the US-Japan Security Treaty", "The US-Japan Security Treaty was extended for another 10 years", "The US-Japan Security Treaty was extended for another 20 years", "The US-Japan Security Treaty was extended permanently"],
+        "answer": "The US-Japan Security Treaty was extended permanently"
+      },
+      {
+        "question": "Which Japanese cities were atomic bombs dropped on in August 1945? ",
+        "options": ["Tokyo and Nagoya", "Hiroshima and Nagasaki", "Kyoto and Yokohama", "Osaka and Fukuoka"],
+        "answer": "Hiroshima and Nagasaki"
+      },
+      {
+        "question": "Historically, the East Sea has been considered an essential route for transportation, trade, and migration between.......... ",
+        "options": ["Japan and Korea", "China and India", "Korea and China", "India and Japan"],
+        "answer": "China and India"
       }
+      
     ]
   },
   "fillInTheBlank": {
