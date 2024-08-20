@@ -207,7 +207,7 @@
     "hard": [
       {
         "question": "In which year did the Trung Sisters' uprising occur? ",
-        "options": ["179 BC", "Year 40, "Year 41", "Year 39"],
+        "options": ["179 BC", "Year 40", "Year 41", "Year 39"],
         "answer": "Year 40"
       },
       {
@@ -236,7 +236,7 @@
         "answer": "Ho Chi Minh Campaign"
       },
       {
-        "question": "When did the name "Socialist Republic of Vietnam" come into being? ",
+        "question": "When did the name 'Socialist Republic of Vietnam' come into being? ",
         "options": ["September 2, 1945", "July 2, 1976", "February 12, 1951", "July 2, 1975"],
         "answer": "July 2, 1976"
       },
@@ -264,8 +264,22 @@
         "question": "Historically, the East Sea has been considered an essential route for transportation, trade, and migration between.......... ",
         "options": ["Japan and Korea", "China and India", "Korea and China", "India and Japan"],
         "answer": "China and India"
+      },
+      {
+        "question": "The invention of which of the following engines created the premise for the birth and development of cars and airplanes? ",
+        "options": ["Water engine", "Internal combustion engine", "Steam engine", "Wind engine"],
+        "answer": "Internal combustion engine"
+      },
+      {
+        "question": "In which country did the Industrial Revolution begin in the 18th century?",
+        "options": ["France", "Japan", "England", "Australia"],
+        "answer": "England"
+      },
+      {
+        "question": "Which army carried out the siege of Leningrad during World War II?",
+        "options": ["German Army", "Italian Army", "Japanese Army", "French Army"],
+        "answer": "German Army"
       }
-      
     ]
   },
   "fillInTheBlank": {
