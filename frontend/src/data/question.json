@@ -179,12 +179,30 @@
         "answer": "Thomas Edison"
       },
       {
-        "question": "Who invented the electric light bulb?",
-        "options": ["Alexander Graham Bell", "Thomas Edison", "Nikola Tesla", "Michael Faraday"],
-        "answer": "Thomas Edison"
+        "question": "Which achievement of the modern scientific and technological revolution has caused the world security situation to always have signs of instability?",
+        "options": ["Creating nuclear weapons", "Discovering the human genome map", "Creating spacecraft", "Creating electronic computers"],
+        "answer": "Creating nuclear weapons"
+      },
+      {
+        "question": "Who was the commander of the Japanese army during the attack on Pearl Harbor?",
+        "options": ["Isoroku Yamamoto", "Franklin D. Roosevelt", "Chiharu Shida", "John F. Kennedy"],
+        "answer": "Isoroku Yamamoto"
+      },
+      {
+        "question": "When did Vietnam join the United Nations? ",
+        "options": ["7-1976", "7-1977", "9-1977", "7-1979"],
+        "answer": "9-1977"
+      },
+      {
+        "question": "Who was the main leader of Germany during World War II?",
+        "options": ["Benito Mussolini", "Adolf Hitler", "Joseph Stalin", "Franklin D. Roosevelt"],
+        "answer": "Adolf Hitler"
+      },
+      {
+        "question": "Who was the president of the United States during World War II?",
+        "options": ["Woodrow Wilson", "Theodore Roosevelt", "Franklin D. Roosevelt", "Warren G. Harding"],
+        "answer": "Franklin D. Roosevelt"
       }
-      
-      
     ],
     "hard": [
       {
