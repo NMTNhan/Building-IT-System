@@ -152,7 +152,38 @@
         "question": "Which attack led to the United States officially entering World War II?",
         "options": ["The attack on Pearl Harbor", "The attack on Normandy", "The attack on Stalingrad", "The attack on London"],
         "answer": "The attack on Pearl Harbor"
+      }, 
+      {
+        "question": "Which invention developed by Tim Berners-Lee in 1989 created the foundation of the World Wide Web?",
+        "options": ["Email", "Web browser", "HTML", "Web search"],
+        "answer": "HTML"
+      },
+      {
+        "question": "Who invented the airplane and made the first flight in 1903?",
+        "options": ["Charles Lindbergh", "Amelia Earhart", "The Wright Brothers", "Igor Sikorsky"],
+        "answer": "The Wright Brothers"
+      },
+      {
+        "question": "Which of the following countries did not follow the socialist path?",
+        "options": ["The Socialist Republic of Vietnam", "Lao People's Democratic Republic.", "People's Republic of China", "Republic of Korea"],
+        "answer": "Republic of Korea"
+      },
+      {
+        "question": "The construction of socialism since 1991 has continued to be maintained and promoted in which of the following countries?",
+        "options": ["China, Vietnam, Laos, Cuba", "China, Russia, Vietnam, Laos", "South Korea, North Korea, Vietnam, Cuba", "Laos, Cuba, South Korea, Japan"],
+        "answer": "China, Vietnam, Laos, Cuba"
+      },
+      {
+        "question": "Who invented the electric light bulb?",
+        "options": ["Alexander Graham Bell", "Thomas Edison", "Nikola Tesla", "Michael Faraday"],
+        "answer": "Thomas Edison"
+      },
+      {
+        "question": "Who invented the electric light bulb?",
+        "options": ["Alexander Graham Bell", "Thomas Edison", "Nikola Tesla", "Michael Faraday"],
+        "answer": "Thomas Edison"
       }
+      
       
     ],
     "hard": [
