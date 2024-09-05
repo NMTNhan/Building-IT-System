@@ -2,29 +2,104 @@
   "multipleChoice": {
     "easy": [
       {
-        "question": "What year did the American Civil War start?",
-        "options": ["1860", "1861", "1862", "1863"],
-        "answer": "1861"
+        "question": "When was the Tran Dynasty established? ",
+        "options": ["Early 1226", "1228", "1225", "1863"],
+        "answer": "Early 1226"
       },
       {
-        "question": "What is the capital of France?",
-        "options": ["Berlin", "Madrid", "Paris", "Rome"],
-        "answer": "Paris"
+        "question": "How many kings did the Nguyen Dynasty have? ",
+        "options": ["2", "13", "5", "6"],
+        "answer": "13"
       },
       {
-        "question": "Which planet is known as the Red Planet?",
-        "options": ["Earth", "Jupiter", "Mars", "Saturn"],
-        "answer": "Mars"
+        "question": "In what year and from where did Nguyen Tat Thanh set out to find a way to save the country? ",
+        "options": ["1911, at Nha Rong port", "1912, at Saigon Station", "1913, at Mr Le's house", "1915, at Nha Rong post"],
+        "answer": "1911, at Nha Rong port"
       },
       {
-        "question": "Who painted the Mona Lisa?",
-        "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Claude Monet"],
-        "answer": "Leonardo da Vinci"
+        "question": "How many phases were there in the Dien Bien Phu campaign?",
+        "options": ["2 phases", "3 phases", "4 phases", "1 phases"],
+        "answer": "3 phases"
       },
       {
-        "question": "What is the largest ocean on Earth?",
-        "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
-        "answer": "Pacific Ocean"
+        "question": "How many days and nights did Vietnam win the Dien Bien Phu campaign?",
+        "options": ["55 days and nights", "56 days and night", "65 days and night", "50 days and nights"],
+        "answer": "56 days and nights"
+      },
+      {
+        "question": "What is Vietnam's national day?",
+        "options": ["2/9", "12/9", "19/8", "3/9"],
+        "answer": "2/9"
+      },
+      {
+        "question": "What day, month, and year did General Secretary Nguyen Phu Trong pass away?",
+        "options": ["July 19, 2024", "July 20, 2024", "May 19, 2024", "June 19, 2024"],
+        "answer": "July 19, 2024"
+      },
+      {
+        "question": "What day is national reunification day?",
+        "options": ["30/4/1975", "30/4/1974", "30/3/1975", "29/4/1975"],
+        "answer": "30/4/1975"
+      }, 
+      {
+        "question": "Who was the commander of the Dien Bien Phu campaign?",
+        "options": ["Uncle Ho", "General Vo Nguyen Giap", "General Le Trong Tan", "Hoang Van Thai"],
+        "answer": "General Vo Nguyen Giap"
+      },
+      {
+        "question": "During the years 1955-1975, which country provided economic and technical to Vietnam?",
+        "options": ["England", "France", "Soviet Union", "Thailand"],
+        "answer": "Soviet Union"
+      },
+      {
+        "question": "Which dynasty was founded by Nguyen Anh after defeating Tay Son?",
+        "options": ["Le Dynasty", "Nguyen Dynasty", "Tran Dynasty", "Han Dynasty"],
+        "answer": "Nguyen Dynasty"
+      },
+      {
+        "question": "How long was Vietnam colonized by China?",
+        "options": ["900 years", "Over 1000 years", "800 years", "Over 700 years"],
+        "answer": "Over 1000 years"
+      },
+      {
+        "question": "What year did World War II end?",
+        "options": ["1945", "1946", "1944", "1943"],
+        "answer": "1945"
+      },
+      {
+        "question": "Who was the US President when the Paris Peace Agreement was signed?",
+        "options": ["John F. Kennedy", "Lyndon B. Johnson", "Gerald Ford", "Richard Nixon"],
+        "answer": "Richard Nixon"
+      },
+      {
+        "question": "Which country did the US drop atomic bombs on during World War II? ",
+        "options": ["VietNam", "China", "Japan", "Laos"],
+        "answer": "Japan"
+      },
+      {
+        "question": "The first country in the world to build a nuclear power plant was",
+        "options": ["America", "China", "Japan", "Soviet Union"],
+        "answer": "Soviet Union"
+      },
+      {
+        "question": "Where is the headquarters of the United Nations located?",
+        "options": ["VietNam", "America", "China", "Singapore"],
+        "answer": "America"
+      },
+      {
+        "question": "Which country initiated the conquest of space?",
+        "options": ["Soviet Union", "America", "Japan", "Singapore"],
+        "answer": "Soviet Union"
+      },
+      {
+        "question": "Which energy source is considered 'clean energy'?",
+        "options": ["Thermonuclear energy", "Solar energy", "Tidal energy", "Nuclear energy"],
+        "answer": "Solar energy"
+      },
+      {
+        "question": "In which country was the first electronic computer invented?",
+        "options": ["America", "Soviet Union", "Japan", "France"],
+        "answer": "America"
       }
     ],
     "normal": [
@@ -34,51 +109,176 @@
         "answer": "Woodrow Wilson"
       },
       {
-        "question": "What is the chemical symbol for gold?",
-        "options": ["Au", "Ag", "Pb", "Fe"],
-        "answer": "Au"
+        "question": "What was the first name of our country? ",
+        "options": ["Van Lang", "Au Lac", "VietNam", "Dai Co Viet"],
+        "answer": "Van Lang"
       },
       {
-        "question": "Who wrote 'To Kill a Mockingbird'?",
-        "options": ["Harper Lee", "Mark Twain", "Ernest Hemingway", "F. Scott Fitzgerald"],
-        "answer": "Harper Lee"
+        "question": "What day, month, and year was Nguyen Tat Thanh born?",
+        "options": ["May 19, 1980", "May 19, 1890", "May 19, 1089", "May 19, 1908"],
+        "answer": "May 19, 1890"
       },
       {
-        "question": "What is the largest planet in our solar system?",
-        "options": ["Earth", "Jupiter", "Saturn", "Neptune"],
-        "answer": "Jupiter"
+        "question": "When did the Ho Chi Minh Campaign take place? ",
+        "options": ["From April 16 to April 30, 1975 ", "From April 26 to April 30, 1975", "From April 9 to April 30, 1975", "From April 21 to April 30, 1975"],
+        "answer": "From April 26 to April 30, 1975"
       },
       {
-        "question": "What is the hardest natural substance on Earth?",
-        "options": ["Gold", "Iron", "Diamond", "Ruby"],
-        "answer": "Diamond"
+        "question": "What date was the Paris Agreement signed? ",
+        "options": ["27/01/1973", "28/01/1975", "2/9/1954", "30/4/1975"],
+        "answer": "27/01/1973"
+      },
+      {
+        "question": "When did the countries of the world hold the conference to establish the United Nations?",
+        "options": ["World War II broke out", "World War II had not yet taken place", "World War II was about to end", "In World War II"],
+        "answer": "World War II was about to end"
+      },
+      {
+        "question": "Which army helped Vietnam in the war against France?",
+        "options": ["Chinese army", "American army ", "British army", "Soviet army"],
+        "answer": "Chinese army"
+      },
+      {
+        "question": "Which conference decided to divide Vietnam into two regions: North and South?",
+        "options": ["Geneva Conference 1954", "Paris Conference 1973", "Chengdu Conference 1990", "Indochina Conference 1945"],
+        "answer": "Geneva Conference 1954"
+      },
+      {
+        "question": "The three major financial economic centers of the world formed in the 70s of the 20th century were",
+        "options": ["America, England, France", "America, Soviet Union, Japan", "America, Japan, Western Europe", "America, Germany, Japan"],
+        "answer": "America, Japan, Western Europe"
+      },
+      {
+        "question": "Which attack led to the United States officially entering World War II?",
+        "options": ["The attack on Pearl Harbor", "The attack on Normandy", "The attack on Stalingrad", "The attack on London"],
+        "answer": "The attack on Pearl Harbor"
+      }, 
+      {
+        "question": "Which invention developed by Tim Berners-Lee in 1989 created the foundation of the World Wide Web?",
+        "options": ["Email", "Web browser", "HTML", "Web search"],
+        "answer": "HTML"
+      },
+      {
+        "question": "Who invented the airplane and made the first flight in 1903?",
+        "options": ["Charles Lindbergh", "Amelia Earhart", "The Wright Brothers", "Igor Sikorsky"],
+        "answer": "The Wright Brothers"
+      },
+      {
+        "question": "Which of the following countries did not follow the socialist path?",
+        "options": ["The Socialist Republic of Vietnam", "Lao People's Democratic Republic.", "People's Republic of China", "Republic of Korea"],
+        "answer": "Republic of Korea"
+      },
+      {
+        "question": "The construction of socialism since 1991 has continued to be maintained and promoted in which of the following countries?",
+        "options": ["China, Vietnam, Laos, Cuba", "China, Russia, Vietnam, Laos", "South Korea, North Korea, Vietnam, Cuba", "Laos, Cuba, South Korea, Japan"],
+        "answer": "China, Vietnam, Laos, Cuba"
+      },
+      {
+        "question": "Who invented the electric light bulb?",
+        "options": ["Alexander Graham Bell", "Thomas Edison", "Nikola Tesla", "Michael Faraday"],
+        "answer": "Thomas Edison"
+      },
+      {
+        "question": "Which achievement of the modern scientific and technological revolution has caused the world security situation to always have signs of instability?",
+        "options": ["Creating nuclear weapons", "Discovering the human genome map", "Creating spacecraft", "Creating electronic computers"],
+        "answer": "Creating nuclear weapons"
+      },
+      {
+        "question": "Who was the commander of the Japanese army during the attack on Pearl Harbor?",
+        "options": ["Isoroku Yamamoto", "Franklin D. Roosevelt", "Chiharu Shida", "John F. Kennedy"],
+        "answer": "Isoroku Yamamoto"
+      },
+      {
+        "question": "When did Vietnam join the United Nations? ",
+        "options": ["7-1976", "7-1977", "9-1977", "7-1979"],
+        "answer": "9-1977"
+      },
+      {
+        "question": "Who was the main leader of Germany during World War II?",
+        "options": ["Benito Mussolini", "Adolf Hitler", "Joseph Stalin", "Franklin D. Roosevelt"],
+        "answer": "Adolf Hitler"
+      },
+      {
+        "question": "Who was the president of the United States during World War II?",
+        "options": ["Woodrow Wilson", "Theodore Roosevelt", "Franklin D. Roosevelt", "Warren G. Harding"],
+        "answer": "Franklin D. Roosevelt"
       }
     ],
     "hard": [
       {
-        "question": "What was the name of the ship that brought the Pilgrims to America in 1620?",
-        "options": ["Mayflower", "Santa Maria", "Pinta", "Nina"],
-        "answer": "Mayflower"
+        "question": "In which year did the Trung Sisters' uprising occur? ",
+        "options": ["179 BC", "Year 40", "Year 41", "Year 39"],
+        "answer": "Year 40"
       },
       {
-        "question": "Who developed the theory of relativity?",
-        "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Nikola Tesla"],
-        "answer": "Albert Einstein"
+        "question": "In which year did Ngo Quyen ascend the throne? ",
+        "options": ["938", "939", "950", "940"],
+        "answer": "939"
       },
       {
-        "question": "What is the capital of Mongolia?",
-        "options": ["Ulaanbaatar", "Astana", "Tashkent", "Bishkek"],
-        "answer": "Ulaanbaatar"
+        "question": "To find a way to save the country, in 1905, Phan Boi Chau went to which country? ",
+        "options": ["China", "Japan", "Russia", "Japan"],
+        "answer": "Japan"
       },
       {
-        "question": "Who wrote 'War and Peace'?",
-        "options": ["Leo Tolstoy", "Fyodor Dostoevsky", "Anton Chekhov", "Vladimir Nabokov"],
-        "answer": "Leo Tolstoy"
+        "question": "Who was the first person to plant the flag on the roof of the Independence Palace on April 30, 1975? ?",
+        "options": ["Dang Toan", "Bui Quang Than", "Nguyen Van Tap", "Hoang Dang Vinh"],
+        "answer": "Bui Quang Than"
       },
       {
-        "question": "What is the smallest country in the world?",
-        "options": ["Monaco", "Vatican City", "San Marino", "Liechtenstein"],
-        "answer": "Vatican City"
+        "question": "On September 2, 1945, in front of Ba Dinh Square, President Ho Chi Minh read the Declaration of Independence, giving birth to the country.............. ",
+        "options": ["The Socialist Republic of Vietnam", "Vietnam", "Democratic Republic of Vietnam", "Republic of Vietnam "],
+        "answer": "Democratic Republic of Vietnam"
+      },
+      {
+        "question": "The victory of which of the following campaigns ended the Vietnamese people's resistance war against the US to save the country (1954 - 1975)? ",
+        "options": ["Tay Nguyen Campaign", "Hue-Da Nang Campaign", "Ho Chi Minh Campaign", "Tri-Thien Campaign"],
+        "answer": "Ho Chi Minh Campaign"
+      },
+      {
+        "question": "When did the name 'Socialist Republic of Vietnam' come into being? ",
+        "options": ["September 2, 1945", "July 2, 1976", "February 12, 1951", "July 2, 1975"],
+        "answer": "July 2, 1976"
+      },
+      {
+        "question": "The United Nations operates according to the main principles: ",
+        "options": ["maintaining world peace and security", "carrying out international cooperation between countries", "developing friendly relations among nations ", "the purpose of the Charter is clearly stated"],
+        "answer": "maintaining world peace and security"
+      },
+      {
+        "question": "Which of the following organizations is not part of the United Nations? ",
+        "options": ["UNICEF", "WTO", "NATO", "UNESCO"],
+        "answer": "NATO"
+      },
+      {
+        "question": "In 1996, the US and Japanese governments met and decided to:   ",
+        "options": ["terminate the US-Japan Security Treaty", "The US-Japan Security Treaty was extended for another 10 years", "The US-Japan Security Treaty was extended for another 20 years", "The US-Japan Security Treaty was extended permanently"],
+        "answer": "The US-Japan Security Treaty was extended permanently"
+      },
+      {
+        "question": "Which Japanese cities were atomic bombs dropped on in August 1945? ",
+        "options": ["Tokyo and Nagoya", "Hiroshima and Nagasaki", "Kyoto and Yokohama", "Osaka and Fukuoka"],
+        "answer": "Hiroshima and Nagasaki"
+      },
+      {
+        "question": "Historically, the East Sea has been considered an essential route for transportation, trade, and migration between.......... ",
+        "options": ["Japan and Korea", "China and India", "Korea and China", "India and Japan"],
+        "answer": "China and India"
+      },
+      {
+        "question": "The invention of which of the following engines created the premise for the birth and development of cars and airplanes? ",
+        "options": ["Water engine", "Internal combustion engine", "Steam engine", "Wind engine"],
+        "answer": "Internal combustion engine"
+      },
+      {
+        "question": "In which country did the Industrial Revolution begin in the 18th century?",
+        "options": ["France", "Japan", "England", "Australia"],
+        "answer": "England"
+      },
+      {
+        "question": "Which army carried out the siege of Leningrad during World War II?",
+        "options": ["German Army", "Italian Army", "Japanese Army", "French Army"],
+        "answer": "German Army"
       }
     ]
   },
