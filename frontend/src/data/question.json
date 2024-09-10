@@ -285,25 +285,62 @@
   "fillInTheBlank": {
     "easy": [
       {
-        "sentence": "The sky is ___.",
-        "answer": "blue"
+        "sentence": "The first king of the Tay Son dynasty was ___.",
+        "answer": "Nguyen Hue"
       },
       {
-        "sentence": "Grass is ___.",
-        "answer": "green"
+        "sentence": "Which dynasty held the Dien Hong conference to mobilize the people to fight the enemy?",
+        "answer": "Tran dynasty"
       },
       {
-        "sentence": "The sun rises in the ___.",
-        "answer": "east"
+        "sentence": "Which dynasty was the last dynasty in Vietnamese feudal history?",
+        "answer": "Nguyen"
       },
       {
-        "sentence": "Bananas are ___.",
-        "answer": "yellow"
+        "sentence": "Where did Ly Thai To decide to move the capital from Hoa Lu in 1010?",
+        "answer": "Ha Noi"
       },
       {
-        "sentence": "Snow is ___.",
-        "answer": "white"
+        "sentence": "In which year did President Ho Chi Minh read the declaration of independence?",
+        "answer": "1945"
+      },
+      {
+        "sentence": "Who invented the steam engine?",
+        "answer": "James Watt"
+      },
+      {
+        "sentence": "The inventor of the theory of universal gravitation was Isaac __________.",
+        "answer": "Newton"
+      },
+      {
+        "sentence": "The first industrial revolution began in __________.",
+        "answer": "England"
+      },
+      {
+        "sentence": "The first president of the United States was George __________.",
+        "answer": "Washington"
+      },
+      {
+        "sentence": "Which Polish scientist discovered the radioactive element radium?",
+        "answer": "Marie Curie"
+      },
+      {
+        "sentence": "Which Polish scientist discovered the radioactive element radium?",
+        "answer": "Marie Curie"
+      },
+      {
+        "sentence": "The United Nations was founded in __________",
+        "answer": "1945"
+      },
+      {
+        "sentence": "Christopher _________ was the discoverer of South America in 1492.",
+        "answer": "Columbus"
       }
+      
+      
+      
+      
+      
     ],
     "normal": [
       {
