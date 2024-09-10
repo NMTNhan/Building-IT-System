@@ -355,24 +355,24 @@
     ],
     "normal": [
       {
-        "sentence": "Water freezes at 0 degrees ___.",
-        "answer": "Celsius"
+        "sentence": "The year that Christopher Columbus discovered America was in",
+        "answer": "1492"
       },
       {
-        "sentence": "The chemical formula for water is H2___.",
-        "answer": "O"
+        "sentence": "The Korean War lasted from ________ to 1953.",
+        "answer": "1950"
       },
       {
-        "sentence": "The Great Wall of ___ is visible from space.",
+        "sentence": "The industrial revolution first took place in England in the ________ century.",
+        "answer": "18th"
+      },
+      {
+        "sentence": "The Yalta Conference took place in ________ to discuss the reconstruction of Europe after World War II.",
+        "answer": "1945"
+      },
+      {
+        "sentence": "The great victory at Bach Dang in 938 helped Ngo Quyen gain independence from ________.",
         "answer": "China"
-      },
-      {
-        "sentence": "The capital of Japan is ___.",
-        "answer": "Tokyo"
-      },
-      {
-        "sentence": "The first president of the United States was George ___.",
-        "answer": "Washington"
       }
     ],
     "hard": [
