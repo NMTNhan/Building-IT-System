@@ -47,13 +47,13 @@ const MultipleChoice = ({ question, onAnswer }) => {
 
           return (
             <button
-              key={option}
-              className={buttonClass}
-              onClick={() => handleAnswer(option)}
-              disabled={!!feedback} 
-            >
-              {option}
-            </button>
+  className={buttonClass}
+  onClick={() => handleAnswer(option)}
+  disabled={!!feedback}
+>
+  {option}
+</button>
+
           );
         })}
       </div>
