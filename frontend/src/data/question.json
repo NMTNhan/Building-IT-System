@@ -335,12 +335,23 @@
       {
         "sentence": "Christopher _________ was the discoverer of South America in 1492.",
         "answer": "Columbus"
-      }
-      
-      
-      
-      
-      
+      },
+      {
+        "sentence": "Which soccer player won the most Ballon d'Or awards?",
+        "answer": "Messi"
+      },
+      {
+        "sentence": "The inventor of the rabies vaccine was Louis __________",
+        "answer": "Pasteur"
+      },
+      {
+        "sentence": "Gravity was first explained by scientist Isaac ________.",
+        "answer": "Newton"
+      },
+      {
+        "sentence": "Ferdinand ______ was the first person to circumnavigate the Earth by sea.",
+        "answer": "Magellan"
+      },
     ],
     "normal": [
       {
