@@ -559,87 +559,75 @@
     },
     "fillInTheBlank": {
         "easy": [
-            {
-                "sentence": "Vietnam declared independence on ______",
-                "answer": "September"
-            },
-            {
-                "sentence": "The famous leader of Vietnam who led the independence movement was ______",
-                "answer": "Ho"
-            },
-            {
-                "sentence": "The ancient kingdom of ______ was one of the first names of Vietnam",
-                "answer": "Van"
-            },
-            {
-                "sentence": "The Ho Chi Minh Trail was a crucial supply route during the Vietnam War, running through ______ and ______",
-                "answer": "Laos,"
-            },
-            {
-                "sentence": "The Vietnam War ended in ______",
-                "answer": "1975"
-            },
-            {
-                "sentence": "The capital city of Vietnam is ______",
-                "answer": "Hanoi"
-            },
-            {
-                "sentence": "The currency of Vietnam is called ______",
-                "answer": "Dong"
-            },
-            {
-                "sentence": "Vietnam was under French colonial rule for ______ years",
-                "answer": "80"
-            },
-            {
-                "sentence": "The largest city in Vietnam is ______",
-                "answer": "Ho Chi Minh"
-            },
-            {
-                "sentence": "The Battle of Dien Bien Phu occurred in ______",
-                "answer": "1954"
-            },
-            {
-                "sentence": "The Trung Sisters led a rebellion against Chinese rule in ______",
-                "answer": "Year"
-            },
-            {
-                "sentence": "The Vietnam National Day is celebrated on ______ every year",
-                "answer": "September"
-            },
-            {
-                "sentence": "The longest river in Vietnam is the ______",
-                "answer": "Mekong"
-            },
-            {
-                "sentence": "The ancient capital of Vietnam during the Nguyen Dynasty was ______",
-                "answer": "Hue"
-            },
-            {
-                "sentence": "The traditional dress worn by women in Vietnam is called ______",
-                "answer": "Ao"
-            },
-            {
-                "sentence": "The Vietnamese emperor who founded the Nguyen Dynasty was ______",
-                "answer": "Gia"
-            },
-            {
-                "sentence": "The Tet Offensive took place during the Vietnam War in ______",
-                "answer": "1968"
-            },
-            {
-                "sentence": "The ______ Dynasty was one of the longest ruling dynasties in Vietnamese history",
-                "answer": "Le"
-            },
-            {
-                "sentence": "______ is the most famous beach destination in Vietnam",
-                "answer": "Da"
-            },
-            {
-                "sentence": "In 1941, the Viet Minh, a communist-led resistance movement, was founded to fight the Japanese and French. It was led by ______",
-                "answer": "Ho"
-            }
-        ],
+      {
+        "sentence": "The first king of the Tay Son dynasty was ___.",
+        "answer": "Nguyen Hue"
+      },
+      {
+        "sentence": "Which dynasty held the Dien Hong conference to mobilize the people to fight the enemy?",
+        "answer": "Tran dynasty"
+      },
+      {
+        "sentence": "Which dynasty was the last dynasty in Vietnamese feudal history?",
+        "answer": "Nguyen"
+      },
+      {
+        "sentence": "Where did Ly Thai To decide to move the capital from Hoa Lu in 1010?",
+        "answer": "Ha Noi"
+      },
+      {
+        "sentence": "In which year did President Ho Chi Minh read the declaration of independence?",
+        "answer": "1945"
+      },
+      {
+        "sentence": "Who invented the steam engine?",
+        "answer": "James Watt"
+      },
+      {
+        "sentence": "The inventor of the theory of universal gravitation was Isaac __________.",
+        "answer": "Newton"
+      },
+      {
+        "sentence": "The first industrial revolution began in __________.",
+        "answer": "England"
+      },
+      {
+        "sentence": "The first president of the United States was George __________.",
+        "answer": "Washington"
+      },
+      {
+        "sentence": "Which Polish scientist discovered the radioactive element radium?",
+        "answer": "Marie Curie"
+      },
+      {
+        "sentence": "Which Polish scientist discovered the radioactive element radium?",
+        "answer": "Marie Curie"
+      },
+      {
+        "sentence": "The United Nations was founded in __________",
+        "answer": "1945"
+      },
+      {
+        "sentence": "Christopher _________ was the discoverer of South America in 1492.",
+        "answer": "Columbus"
+      },
+      {
+        "sentence": "Which soccer player won the most Ballon d'Or awards?",
+        "answer": "Messi"
+      },
+      {
+        "sentence": "The inventor of the rabies vaccine was Louis __________",
+        "answer": "Pasteur"
+      },
+      {
+        "sentence": "Gravity was first explained by scientist Isaac ________.",
+        "answer": "Newton"
+      },
+      {
+        "sentence": "Ferdinand ______ was the first person to circumnavigate the Earth by sea.",
+        "answer": "Magellan"
+      },
+    ],
         "normal": [
             {
                 "sentence": "The Paris Peace Accords were signed in ______",
