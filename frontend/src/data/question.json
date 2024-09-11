@@ -641,86 +641,66 @@
             }
         ],
         "normal": [
-            {
-                "sentence": "The Paris Peace Accords were signed in ______",
-                "answer": "1973"
-            },
-            {
-                "sentence": "The ______ was a military conflict in Vietnam from 1955 to 1975",
-                "answer": "Vietnam"
-            },
-            {
-                "sentence": "The ______ offensive marked a major turning point in the Vietnam War",
-                "answer": "Tet"
-            },
-            {
-                "sentence": "The first emperor of the Nguyen Dynasty was ______",
-                "answer": "Gia"
-            },
-            {
-                "sentence": "______ is the highest mountain in Vietnam",
-                "answer": "Fansipan"
-            },
-            {
-                "sentence": "Vietnam was unified under communist control in ______",
-                "answer": "1975"
-            },
-            {
-                "sentence": "The capital of French Indochina was ______",
-                "answer": "Hanoi"
-            },
-            {
-                "sentence": "In ______, Vietnam officially became a member of the United Nations",
-                "answer": "1977"
-            },
-            {
-                "sentence": "Vietnam\u2019s economy is heavily based on ______ and ______",
-                "answer": "Agriculture,"
-            },
-            {
-                "sentence": "______ is the largest delta in Vietnam",
-                "answer": "Mekong"
-            },
-            {
-                "sentence": "The Vietnam War saw intervention from ______ and ______ against North Vietnam",
-                "answer": "United"
-            },
-            {
-                "sentence": "Vietnam is bordered by ______ to the north",
-                "answer": "China"
-            },
-            {
-                "sentence": "Vietnamese is written using a Latin alphabet known as ______",
-                "answer": "Qu\u1ed1c"
-            },
-            {
-                "sentence": "The ______ dynasty marked the end of feudal Vietnam",
-                "answer": "Nguyen"
-            },
-            {
-                "sentence": "Ho Chi Minh's birth name was ______",
-                "answer": "Nguyen"
-            },
-            {
-                "sentence": "The official flag of Vietnam is a red background with a ______ star in the center",
-                "answer": "Yellow"
-            },
-            {
-                "sentence": "The My Lai massacre occurred in ______",
-                "answer": "1968"
-            },
-            {
-                "sentence": "The first socialist republic of Vietnam was established in ______",
-                "answer": "1945"
-            },
-            {
-                "sentence": "The official name of Vietnam after 1976 was ______",
-                "answer": "Socialist"
-            },
-            {
-                "sentence": "______ is the largest island in Vietnam",
-                "answer": "Phu"
-            }
+           {
+        "sentence": "The year that Christopher Columbus discovered America was in",
+        "answer": "1492"
+      },
+      {
+        "sentence": "The Korean War lasted from ________ to 1953.",
+        "answer": "1950"
+      },
+      {
+        "sentence": "The industrial revolution first took place in England in the ________ century.",
+        "answer": "18th"
+      },
+      {
+        "sentence": "The Yalta Conference took place in ________ to discuss the reconstruction of Europe after World War II.",
+        "answer": "1945"
+      },
+      {
+        "sentence": "The great victory at Bach Dang in 938 helped Ngo Quyen gain independence from ________.",
+        "answer": "China"
+      },
+      {
+        "sentence": "General Vo Nguyen Giap is known as the great general of Vietnam in the ________ century.",
+        "answer": "20th"
+      },
+      {
+        "sentence": "In which year did the resistance war against France led by Ho Chi Minh and the Viet Minh end?",
+        "answer": "1954"
+      },
+      {
+        "sentence": "The signing of the Paris Peace Accords in 1972 ended the Vietnam War between Vietnam and ________.",
+        "answer": "America"
+      },
+      {
+        "sentence": "The Geneva Conference took place in ________ and decided to divide Vietnam into North and South.",
+        "answer": "1954"
+      },
+      {
+        "sentence": "World War I broke out in the year______.",
+        "answer": "1914"
+      },
+      {
+        "sentence": "The war against America started in ________ and ended in 1975.",
+        "answer": "1954"
+      },
+      {
+        "sentence": "Which year did World War II end with the surrender of Japan?",
+        "answer": "1945"
+      },
+      {
+        "sentence": "Germany was led by Adolf ______ during World War II.",
+        "answer": "Hilter"
+      },
+      {
+        "sentence": "The United Kingdom had the largest colonial system in history, sometimes referred to as 'the empire the sun never ______.'",
+        "answer": "set"
+      },
+      {
+        "sentence": "What year did Queen Elizabeth II pass away?",
+        "answer": "2022"
+      }
         ],
         "hard": [
             {
