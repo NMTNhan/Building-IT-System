@@ -391,8 +391,8 @@
         "answer": "1954"
       },
       {
-        "sentence": "The Geneva Conference took place in ________ and decided to divide Vietnam into North and South.",
-        "answer": "1954"
+        "sentence": "World War I broke out in the year______.",
+        "answer": "1914"
       },
       {
         "sentence": "The war against America started in ________ and ended in 1975.",
@@ -401,13 +401,19 @@
       {
         "sentence": "Which year did World War II end with the surrender of Japan?",
         "answer": "1945"
+      },
+      {
+        "sentence": "Germany was led by Adolf ______ during World War II.",
+        "answer": "Hilter"
+      },
+      {
+        "sentence": "The United Kingdom had the largest colonial system in history, sometimes referred to as "the empire the sun never ______.",
+        "answer": "set"
+      },
+      {
+        "sentence": "What year did Queen Elizabeth II pass away?",
+        "answer": "2022"
       }
-      
-      
-      
-      
-      
-      
     ],
     "hard": [
       {
