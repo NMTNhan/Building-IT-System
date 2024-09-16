@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import "../styles.css"
 
 const MultipleChoice = ({ question, onAnswer }) => {
 
@@ -25,13 +26,13 @@ const MultipleChoice = ({ question, onAnswer }) => {
   };
 
   return (
-    <div className="w-full">
+    <div className="w-full multi">
       <div className="border-4 bg-white border-gray-400 p-12 rounded-lg shadow-xl flex items-center justify-center min-h-[100px] mb-3">
         <h2 className="text-3xl font-bold">{question.question}</h2>
       </div>
 
       {/* Answer Options */}
-      <div className="grid grid-cols-2 gap-8 mt-16">
+      <div className="grid grid-cols-2 gap-8 mt-16 ans-mul">
         {question.options.map((option) => {
           let buttonClass = "bg-white border-2 border-gray-300 hover:bg-orange-300 text-black py-5 px-6 md:text-lg rounded-md shadow-md transition-colors duration-300 w-full";
 
